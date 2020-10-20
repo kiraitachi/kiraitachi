@@ -1,6 +1,3 @@
-<!--
-**kiraitachi/kiraitachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there 👋 my name is Adel and I analyze/mitigate cyber-threats risks in corporate environments. I define myself as a person who enjoys constant learning, excessively curious and passionate about cybersecurity.
 
 I hope you find usefull stuff on my Github profile!
